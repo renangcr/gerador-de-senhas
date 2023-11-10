@@ -179,3 +179,17 @@ input:focus {
 .hide {
     display: none;
 }
+
+@media (max-width: 680px) {
+
+    #register-banner {
+        width: 100%;
+    }
+    #register-form {
+        width: 100%;
+    }
+    #register-container {
+        margin: 2rem;
+        flex-direction: column;
+    }
+}
