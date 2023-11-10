@@ -191,5 +191,6 @@ input:focus {
     #register-container {
         margin: 2rem;
         flex-direction: column;
+        min-height: 63vh;
     }
 }
